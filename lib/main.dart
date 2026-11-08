@@ -51,7 +51,7 @@ class _AppState extends State<App> {
     return PalScope(
       pal: p,
       child: MaterialApp(
-        title: 'Interval Alarms',
+        title: 'alrm',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           brightness: Brightness.dark,
